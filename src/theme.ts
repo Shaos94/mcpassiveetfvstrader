@@ -1,0 +1,17 @@
+export const THEME = {
+  bg: "#F7F5FF",
+  panel: "#FFFFFF",
+  soft: "#F1EBFF",
+  soft2: "#E8DFFF",
+  border: "#E5DDFF",
+  text: "#231A35",
+  muted: "#6D6591",
+  grid: "#ECE5FF",
+  etf: "#4F46E5",
+  weak: "#C084FC",
+  skilled: "#8B5CF6",
+  strong: "#6D28D9",
+  bad: "#FCA5A5",
+  typical: "#93C5FD",
+  good: "#86EFAC",
+};
